@@ -1,0 +1,70 @@
+{
+  "order": [
+    "PC260243.jpg",
+    "PC260219.jpg",
+    "P8030516.jpg",
+    "P5190230.jpg",
+    "P5170161-2.jpg",
+    "P1250760.jpg",
+    "P1190470.jpg",
+    "DSC01774-Edit-2.jpg"
+  ],
+  "dict": {
+    "PC260243.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos\\Street\\PC260243.jpg",
+      "min_path": "./photos\\Street\\PC260243.min.jpg"
+    },
+    "PC260219.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1920,
+      "path": "./photos\\Street\\PC260219.jpg",
+      "min_path": "./photos\\Street\\PC260219.min.jpg"
+    },
+    "P8030516.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1920,
+      "path": "./photos\\Street\\P8030516.jpg",
+      "min_path": "./photos\\Street\\P8030516.min.jpg"
+    },
+    "P5190230.jpg": {
+      "type": "photo",
+      "width": 1865,
+      "height": 2560,
+      "path": "./photos\\Street\\P5190230.jpg",
+      "min_path": "./photos\\Street\\P5190230.min.jpg"
+    },
+    "P5170161-2.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1666,
+      "path": "./photos\\Street\\P5170161-2.jpg",
+      "min_path": "./photos\\Street\\P5170161-2.min.jpg"
+    },
+    "P1250760.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos\\Street\\P1250760.jpg",
+      "min_path": "./photos\\Street\\P1250760.min.jpg"
+    },
+    "P1190470.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1920,
+      "path": "./photos\\Street\\P1190470.jpg",
+      "min_path": "./photos\\Street\\P1190470.min.jpg"
+    },
+    "DSC01774-Edit-2.jpg": {
+      "type": "photo",
+      "width": 1712,
+      "height": 2560,
+      "path": "./photos\\Street\\DSC01774-Edit-2.jpg",
+      "min_path": "./photos\\Street\\DSC01774-Edit-2.min.jpg"
+    }
+  }
+}

@@ -5,75 +5,123 @@
   "parents": [],
   "items": {
     "order": [
-      "2019",
-      "2018"
+      "2021",
+      "2023",
+      "Street",
+      "2025",
+      "2024"
     ],
     "dict": {
-      "2018": {
-        "name": "2018",
+      "2021": {
+        "name": "2021",
         "type": "album",
         "root": 1,
         "parents": [
-          "2018"
+          "2021"
         ],
         "items": {
           "order": [
-            "Hokkaido December"
+            "Madison, Wisconsin, USA"
           ],
           "dict": {
-            "Hokkaido December": {
-              "name": "Hokkaido December",
+            "Madison, Wisconsin, USA": {
+              "name": "Madison, Wisconsin, USA",
               "type": "album",
               "root": 2,
               "parents": [
-                "2018",
-                "Hokkaido December"
+                "2021",
+                "Madison, Wisconsin, USA"
               ],
-              "path": "./_data/albums/2018-Hokkaido December.json",
+              "path": "./_data\\albums\\2021-Madison, Wisconsin, USA.json",
               "no_sub_album": true
             }
           }
         }
       },
-      "2019": {
-        "name": "2019",
+      "2023": {
+        "name": "2023",
         "type": "album",
         "root": 1,
         "parents": [
-          "2019"
+          "2023"
         ],
         "items": {
           "order": [
-            "August"
+            "Colorado, USA"
           ],
           "dict": {
-            "August": {
-              "name": "August",
+            "Colorado, USA": {
+              "name": "Colorado, USA",
               "type": "album",
               "root": 2,
               "parents": [
-                "2019",
-                "August"
+                "2023",
+                "Colorado, USA"
               ],
-              "items": {
-                "order": [
-                  "Street"
-                ],
-                "dict": {
-                  "Street": {
-                    "name": "Street",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "August",
-                      "Street"
-                    ],
-                    "path": "./_data/albums/2019-August-Street.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
+              "path": "./_data\\albums\\2023-Colorado, USA.json",
+              "no_sub_album": true
+            }
+          }
+        }
+      },
+      "Street": {
+        "name": "Street",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "Street"
+        ],
+        "path": "./_data\\albums\\Street.json",
+        "no_sub_album": true
+      },
+      "2025": {
+        "name": "2025",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2025"
+        ],
+        "items": {
+          "order": [
+            "Washington, USA"
+          ],
+          "dict": {
+            "Washington, USA": {
+              "name": "Washington, USA",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2025",
+                "Washington, USA"
+              ],
+              "path": "./_data\\albums\\2025-Washington, USA.json",
+              "no_sub_album": true
+            }
+          }
+        }
+      },
+      "2024": {
+        "name": "2024",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2024"
+        ],
+        "items": {
+          "order": [
+            "Arizona, USA"
+          ],
+          "dict": {
+            "Arizona, USA": {
+              "name": "Arizona, USA",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2024",
+                "Arizona, USA"
+              ],
+              "path": "./_data\\albums\\2024-Arizona, USA.json",
+              "no_sub_album": true
             }
           }
         }

@@ -1,4 +1,4 @@
-name: Horcrux
+name: Photography - Anson C. 
 
 frame_padding: 10px
 
@@ -25,7 +25,7 @@ process:
     watermark:
       thumbnail: False
       original: True
-      fontsize: 40
+      fontsize: 50
       fontfamily: Eczar-Medium.ttf
       rotate: 0
 

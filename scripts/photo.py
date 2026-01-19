@@ -38,11 +38,11 @@ class Photo():
             if conf.SIGN_THUMBNAIL:
                 if not conf.SIGN_ORIGINAL:
                     signed_image = self.mark_image(self.pil_image, conf.fontsize)
-                signed_image.thumbnail(new_image_size, Image.ANTIALIAS)
+                signed_image.thumbnail(new_image_size, Image.Resampling.LANCZOS)
                 self.save_image(signed_image, self.min_path)
             else:
                 min_image = self.pil_image.copy()
-                min_image.thumbnail(new_image_size, Image.ANTIALIAS)
+                min_image.thumbnail(new_image_size, Image.Resampling.LANCZOS)
                 self.save_image(min_image, self.min_path)
 
         relative_path = str(self.path.relative_to(conf.DIR_PATH))
@@ -69,9 +69,9 @@ class Photo():
         font = ImageFont.truetype('./assets/font/' + conf.fontfamily, conf.fontsize)
         draw = ImageDraw.Draw(transparent_image)
 
-        t_size = font.getsize(conf.copyright)
-        t_w = t_size[0]
-        t_h = t_size[1]
+        bbox = draw.textbbox((0, 0), conf.copyright, font=font)
+        t_w = bbox[2] - bbox[0]
+        t_h = bbox[3] - bbox[1]
 
         x = (width - t_w) / 2
         y = height - 2 * t_h

@@ -1,0 +1,30 @@
+{
+  "order": [
+    "DSC00658.jpg",
+    "DSC00652-2.jpg",
+    "DSC00550.jpg"
+  ],
+  "dict": {
+    "DSC00658.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1707,
+      "path": "./photos\\2023\\Colorado, USA\\DSC00658.jpg",
+      "min_path": "./photos\\2023\\Colorado, USA\\DSC00658.min.jpg"
+    },
+    "DSC00652-2.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1707,
+      "path": "./photos\\2023\\Colorado, USA\\DSC00652-2.jpg",
+      "min_path": "./photos\\2023\\Colorado, USA\\DSC00652-2.min.jpg"
+    },
+    "DSC00550.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1707,
+      "path": "./photos\\2023\\Colorado, USA\\DSC00550.jpg",
+      "min_path": "./photos\\2023\\Colorado, USA\\DSC00550.min.jpg"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "order": [
+    "P7300401.jpg",
+    "P7300396.jpg",
+    "P7300389.jpg",
+    "P7300374.jpg",
+    "P7300366.jpg",
+    "P7300363.jpg",
+    "P7300360.jpg",
+    "P7300358.jpg",
+    "P7300355.jpg",
+    "P7300336.jpg",
+    "P7300332.jpg"
+  ],
+  "dict": {
+    "P7300401.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.min.jpg"
+    },
+    "P7300396.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300396.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300396.min.jpg"
+    },
+    "P7300389.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1920,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300389.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300389.min.jpg"
+    },
+    "P7300374.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300374.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300374.min.jpg"
+    },
+    "P7300366.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300366.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300366.min.jpg"
+    },
+    "P7300363.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300363.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300363.min.jpg"
+    },
+    "P7300360.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300360.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300360.min.jpg"
+    },
+    "P7300358.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 2560,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300358.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300358.min.jpg"
+    },
+    "P7300355.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1920,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300355.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300355.min.jpg"
+    },
+    "P7300336.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1920,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300336.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300336.min.jpg"
+    },
+    "P7300332.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1920,
+      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300332.jpg",
+      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300332.min.jpg"
+    }
+  }
+}
