@@ -111,6 +111,15 @@ button.pswp__button.pswp__button--share {
   gap: 0.6em;
 }
 
+.collapse-icon {
+  display: inline-block;
+  transition: transform 1s ease;
+}
+
+[aria-expanded="false"] .collapse-icon {
+  transform: rotate(0deg); /* points left */
+}
+
 .album-content {
   transition: opacity 0.75s ease, max-height 0.75s ease;
   opacity: 1;

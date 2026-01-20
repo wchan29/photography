@@ -4,8 +4,8 @@ title: 📸 Anson's Photography Page
 frame_padding: 10px
 
 column: 3
-column_gap: 30px
-row_gap: 30px
+column_gap: 15px
+row_gap: 15px
 
 small_screen:
   column: 2

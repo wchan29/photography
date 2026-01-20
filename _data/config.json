@@ -8,57 +8,57 @@
     "list": [
       {
         "type": "photo",
-        "width": 1920,
-        "height": 2560,
+        "width": 3385,
+        "height": 4513,
         "path": "./photos\\Street\\PC260243.jpg",
         "min_path": "./photos\\Street\\PC260243.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2560,
-        "height": 1920,
+        "width": 4608,
+        "height": 3456,
         "path": "./photos\\Street\\PC260219.jpg",
         "min_path": "./photos\\Street\\PC260219.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2560,
-        "height": 1920,
+        "width": 4316,
+        "height": 3237,
         "path": "./photos\\Street\\P8030516.jpg",
         "min_path": "./photos\\Street\\P8030516.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1865,
-        "height": 2560,
+        "width": 3316,
+        "height": 4552,
         "path": "./photos\\Street\\P5190230.jpg",
         "min_path": "./photos\\Street\\P5190230.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2560,
-        "height": 1666,
+        "width": 4445,
+        "height": 2893,
         "path": "./photos\\Street\\P5170161-2.jpg",
         "min_path": "./photos\\Street\\P5170161-2.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1920,
-        "height": 2560,
+        "width": 3456,
+        "height": 4608,
         "path": "./photos\\Street\\P1250760.jpg",
         "min_path": "./photos\\Street\\P1250760.min.jpg"
       },
       {
         "type": "photo",
-        "width": 2560,
-        "height": 1920,
+        "width": 4608,
+        "height": 3456,
         "path": "./photos\\Street\\P1190470.jpg",
         "min_path": "./photos\\Street\\P1190470.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1712,
-        "height": 2560,
+        "width": 3937,
+        "height": 5885,
         "path": "./photos\\Street\\DSC01774-Edit-2.jpg",
         "min_path": "./photos\\Street\\DSC01774-Edit-2.min.jpg"
       }
@@ -102,13 +102,6 @@
       },
       {
         "type": "photo",
-        "width": 1707,
-        "height": 2560,
-        "path": "./photos\\2025\\Washington, USA\\DSC03143.jpg",
-        "min_path": "./photos\\2025\\Washington, USA\\DSC03143.min.jpg"
-      },
-      {
-        "type": "photo",
         "width": 2560,
         "height": 1707,
         "path": "./photos\\2025\\Washington, USA\\DSC03132.jpg",
@@ -125,15 +118,8 @@
         "type": "photo",
         "width": 1707,
         "height": 2560,
-        "path": "./photos\\2025\\Washington, USA\\DSC03038-Edit.jpg",
-        "min_path": "./photos\\2025\\Washington, USA\\DSC03038-Edit.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2560,
-        "height": 1707,
-        "path": "./photos\\2025\\Washington, USA\\DSC02926.jpg",
-        "min_path": "./photos\\2025\\Washington, USA\\DSC02926.min.jpg"
+        "path": "./photos\\2025\\Washington, USA\\DSC03033-Edit.jpg",
+        "min_path": "./photos\\2025\\Washington, USA\\DSC03033-Edit.min.jpg"
       },
       {
         "type": "photo",
@@ -177,13 +163,6 @@
         "type": "photo",
         "width": 1707,
         "height": 2560,
-        "path": "./photos\\2024\\Arizona, USA\\DSC01499.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC01499.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1707,
-        "height": 2560,
         "path": "./photos\\2024\\Arizona, USA\\DSC01489.jpg",
         "min_path": "./photos\\2024\\Arizona, USA\\DSC01489.min.jpg"
       },
@@ -210,10 +189,24 @@
       },
       {
         "type": "photo",
+        "width": 1707,
+        "height": 2560,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01406.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01406.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 2560,
         "height": 1707,
         "path": "./photos\\2024\\Arizona, USA\\DSC01382.jpg",
         "min_path": "./photos\\2024\\Arizona, USA\\DSC01382.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1707,
+        "height": 2560,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01378.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01378.min.jpg"
       },
       {
         "type": "photo",
@@ -238,13 +231,6 @@
       },
       {
         "type": "photo",
-        "width": 1509,
-        "height": 2263,
-        "path": "./photos\\2024\\Arizona, USA\\DSC01284.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC01284.min.jpg"
-      },
-      {
-        "type": "photo",
         "width": 2560,
         "height": 1706,
         "path": "./photos\\2024\\Arizona, USA\\DSC01277.jpg",
@@ -263,13 +249,6 @@
         "height": 2560,
         "path": "./photos\\2024\\Arizona, USA\\DSC01206.jpg",
         "min_path": "./photos\\2024\\Arizona, USA\\DSC01206.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1706,
-        "height": 2560,
-        "path": "./photos\\2024\\Arizona, USA\\DSC01189.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC01189.min.jpg"
       },
       {
         "type": "photo",
@@ -301,10 +280,24 @@
       },
       {
         "type": "photo",
+        "width": 2560,
+        "height": 1707,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01131.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01131.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 1707,
         "height": 2560,
         "path": "./photos\\2024\\Arizona, USA\\DSC01127.jpg",
         "min_path": "./photos\\2024\\Arizona, USA\\DSC01127.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2560,
+        "height": 1707,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01123.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01123.min.jpg"
       },
       {
         "type": "photo",
@@ -317,22 +310,8 @@
         "type": "photo",
         "width": 1707,
         "height": 2560,
-        "path": "./photos\\2024\\Arizona, USA\\DSC01001.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC01001.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1707,
-        "height": 2560,
         "path": "./photos\\2024\\Arizona, USA\\DSC00982.jpg",
         "min_path": "./photos\\2024\\Arizona, USA\\DSC00982.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2560,
-        "height": 1707,
-        "path": "./photos\\2024\\Arizona, USA\\DSC00980.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC00980.min.jpg"
       },
       {
         "type": "photo",
@@ -374,6 +353,13 @@
       },
       {
         "type": "photo",
+        "width": 2560,
+        "height": 1707,
+        "path": "./photos\\2023\\Colorado, USA\\DSC00652-2.jpg",
+        "min_path": "./photos\\2023\\Colorado, USA\\DSC00652-2.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 1706,
         "height": 2560,
         "path": "./photos\\2023\\Colorado, USA\\DSC00612.jpg",
@@ -396,13 +382,6 @@
       "Madison, Wisconsin, USA"
     ],
     "list": [
-      {
-        "type": "photo",
-        "width": 1920,
-        "height": 2560,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.min.jpg"
-      },
       {
         "type": "photo",
         "width": 1920,

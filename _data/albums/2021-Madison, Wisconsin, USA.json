@@ -1,6 +1,5 @@
 {
   "order": [
-    "P7300401.jpg",
     "P7300396.jpg",
     "P7300374.jpg",
     "P7300366.jpg",
@@ -12,13 +11,6 @@
     "P7300332.jpg"
   ],
   "dict": {
-    "P7300401.jpg": {
-      "type": "photo",
-      "width": 1920,
-      "height": 2560,
-      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.jpg",
-      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.min.jpg"
-    },
     "P7300396.jpg": {
       "type": "photo",
       "width": 1920,

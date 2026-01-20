@@ -3,6 +3,7 @@
     "DSC00677.jpg",
     "DSC00658.jpg",
     "DSC00657.jpg",
+    "DSC00652-2.jpg",
     "DSC00612.jpg",
     "DSC00550.jpg"
   ],
@@ -27,6 +28,13 @@
       "height": 2560,
       "path": "./photos\\2023\\Colorado, USA\\DSC00657.jpg",
       "min_path": "./photos\\2023\\Colorado, USA\\DSC00657.min.jpg"
+    },
+    "DSC00652-2.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1707,
+      "path": "./photos\\2023\\Colorado, USA\\DSC00652-2.jpg",
+      "min_path": "./photos\\2023\\Colorado, USA\\DSC00652-2.min.jpg"
     },
     "DSC00612.jpg": {
       "type": "photo",

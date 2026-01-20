@@ -10,9 +10,6 @@ document.addEventListener("DOMContentLoaded", () => {
       if (content) {
         content.classList.toggle("is-collapsed", expanded);
       }
-
-      const icon = btn.querySelector(".collapse-icon");
-      if (icon) icon.textContent = expanded ? "◀" : "▼";
     });
   });
 });
