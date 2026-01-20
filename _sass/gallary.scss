@@ -102,3 +102,24 @@ button.pswp__button.pswp__button--share {
     display: none;
   }
 }
+
+.collapse-button {
+  all: unset;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+}
+
+.album-content {
+  transition: opacity 0.75s ease, max-height 0.75s ease;
+  opacity: 1;
+  max-height: 5000px; /* large enough to fit content */
+  overflow: hidden;
+}
+
+.album-content.is-collapsed {
+  opacity: 0;
+  max-height: 0;
+  pointer-events: none;
+}

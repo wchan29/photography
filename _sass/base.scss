@@ -15,7 +15,7 @@ $heading5: #bdbdbd;
 $layout-small: 768px;
 $layout-medium: 1024px;
 
-$font-h1: 3em;
+$font-h1: 1em;
 
 @mixin headline($size, $color) {
   font-size: $size;

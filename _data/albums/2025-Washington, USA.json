@@ -2,10 +2,13 @@
   "order": [
     "DSC03502.jpg",
     "DSC03496.jpg",
+    "DSC03174.jpg",
     "DSC03170.jpg",
+    "DSC03143.jpg",
+    "DSC03132.jpg",
     "DSC03077-Edit.jpg",
-    "DSC03052.jpg",
     "DSC03038-Edit.jpg",
+    "DSC02926.jpg",
     "DSC02920.jpg"
   ],
   "dict": {
@@ -23,12 +26,33 @@
       "path": "./photos\\2025\\Washington, USA\\DSC03496.jpg",
       "min_path": "./photos\\2025\\Washington, USA\\DSC03496.min.jpg"
     },
+    "DSC03174.jpg": {
+      "type": "photo",
+      "width": 1707,
+      "height": 2560,
+      "path": "./photos\\2025\\Washington, USA\\DSC03174.jpg",
+      "min_path": "./photos\\2025\\Washington, USA\\DSC03174.min.jpg"
+    },
     "DSC03170.jpg": {
       "type": "photo",
       "width": 2560,
       "height": 1707,
       "path": "./photos\\2025\\Washington, USA\\DSC03170.jpg",
       "min_path": "./photos\\2025\\Washington, USA\\DSC03170.min.jpg"
+    },
+    "DSC03143.jpg": {
+      "type": "photo",
+      "width": 1707,
+      "height": 2560,
+      "path": "./photos\\2025\\Washington, USA\\DSC03143.jpg",
+      "min_path": "./photos\\2025\\Washington, USA\\DSC03143.min.jpg"
+    },
+    "DSC03132.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1707,
+      "path": "./photos\\2025\\Washington, USA\\DSC03132.jpg",
+      "min_path": "./photos\\2025\\Washington, USA\\DSC03132.min.jpg"
     },
     "DSC03077-Edit.jpg": {
       "type": "photo",
@@ -37,19 +61,19 @@
       "path": "./photos\\2025\\Washington, USA\\DSC03077-Edit.jpg",
       "min_path": "./photos\\2025\\Washington, USA\\DSC03077-Edit.min.jpg"
     },
-    "DSC03052.jpg": {
-      "type": "photo",
-      "width": 1707,
-      "height": 2560,
-      "path": "./photos\\2025\\Washington, USA\\DSC03052.jpg",
-      "min_path": "./photos\\2025\\Washington, USA\\DSC03052.min.jpg"
-    },
     "DSC03038-Edit.jpg": {
       "type": "photo",
       "width": 1707,
       "height": 2560,
       "path": "./photos\\2025\\Washington, USA\\DSC03038-Edit.jpg",
       "min_path": "./photos\\2025\\Washington, USA\\DSC03038-Edit.min.jpg"
+    },
+    "DSC02926.jpg": {
+      "type": "photo",
+      "width": 2560,
+      "height": 1707,
+      "path": "./photos\\2025\\Washington, USA\\DSC02926.jpg",
+      "min_path": "./photos\\2025\\Washington, USA\\DSC02926.min.jpg"
     },
     "DSC02920.jpg": {
       "type": "photo",

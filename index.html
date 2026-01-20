@@ -37,10 +37,12 @@
     {%- include header.html -%}
     <div class="gallary">
       <h1>{{ site.name }}</h1>
+      {% include about.html %}
       {%- assign albums = site.data.config -%}
       {%- include album.html -%}
     </div>
     {%- include footer.html -%}
     {%- include swipe.html -%}
+    <script src="{{ '/assets/js/collapse-albums.js' | relative_url }}"></script>
   </body>
 </html>

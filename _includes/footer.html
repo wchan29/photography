@@ -1,9 +1,11 @@
 <footer>
-  {%- if site.instagram -%}
-    <a class="footer-item" target="blank"" href="https://www.instagram.com/{{ site.instagram }}/">
-      View more in Instagram
-    </a>
-  {%- endif -%}
+  <div class="copyright">
+      &copy; {{ 'now' | date: "%Y" }} {{ site.name }}. All rights reserved.
+    </div>
+    <div class="personal-link">
+      <a href="wchan29.github.io" target="_blank" rel="noopener noreferrer">wchan29.github.io</a>
+    </div>
+    <br>
   <div class="footer-item">
     Power by <a href="https://github.com/soyaine/horcrux">Horcrux</a>
   </div>

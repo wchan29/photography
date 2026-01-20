@@ -1,4 +1,7 @@
 @import "base";
+@import "pswp-default-skin";
+@import "photoswipe";
+@import "gallary";
 
 html {
   background-color: $background;
@@ -9,9 +12,9 @@ body {
   margin: 0;
 }
 h1 {
-  font-size: 1.8em;
+  font-size: 2em;
   color: $title;
-  margin-bottom: 2em;
+  margin-bottom: 0.5em;
 }
 h2 {
   font-weight: 400;
@@ -22,7 +25,7 @@ h2 {
   }
 }
 h1, h2, footer {
-  text-transform: uppercase;
+  text-transform: none;
   letter-spacing: 1.6px;
 }
 figure {
@@ -34,7 +37,7 @@ footer {
   text-align: center;
   width: 100%;
   font-size: 0.8em;
-  margin-bottom: 2em;
+  margin-bottom: 3em;
 }
 .footer-item {
   display: block;
@@ -48,6 +51,3 @@ a {
   }
 }
 
-@import "pswp-default-skin";
-@import "photoswipe";
-@import "gallary";

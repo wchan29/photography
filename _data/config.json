@@ -1,123 +1,5 @@
 [
   {
-    "name": "Madison, Wisconsin, USA",
-    "type": "photos",
-    "parents": [
-      "2021",
-      "Madison, Wisconsin, USA"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 1920,
-        "height": 2560,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1920,
-        "height": 2560,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300396.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300396.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2560,
-        "height": 1920,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300389.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300389.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1920,
-        "height": 2560,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300374.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300374.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1920,
-        "height": 2560,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300366.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300366.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1920,
-        "height": 2560,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300363.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300363.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1920,
-        "height": 2560,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300360.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300360.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 1920,
-        "height": 2560,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300358.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300358.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2560,
-        "height": 1920,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300355.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300355.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2560,
-        "height": 1920,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300336.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300336.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2560,
-        "height": 1920,
-        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300332.jpg",
-        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300332.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Colorado, USA",
-    "type": "photos",
-    "parents": [
-      "2023",
-      "Colorado, USA"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 2560,
-        "height": 1707,
-        "path": "./photos\\2023\\Colorado, USA\\DSC00658.jpg",
-        "min_path": "./photos\\2023\\Colorado, USA\\DSC00658.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2560,
-        "height": 1707,
-        "path": "./photos\\2023\\Colorado, USA\\DSC00652-2.jpg",
-        "min_path": "./photos\\2023\\Colorado, USA\\DSC00652-2.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 2560,
-        "height": 1707,
-        "path": "./photos\\2023\\Colorado, USA\\DSC00550.jpg",
-        "min_path": "./photos\\2023\\Colorado, USA\\DSC00550.min.jpg"
-      }
-    ]
-  },
-  {
     "name": "Street",
     "type": "photos",
     "parents": [
@@ -206,10 +88,31 @@
       },
       {
         "type": "photo",
+        "width": 1707,
+        "height": 2560,
+        "path": "./photos\\2025\\Washington, USA\\DSC03174.jpg",
+        "min_path": "./photos\\2025\\Washington, USA\\DSC03174.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 2560,
         "height": 1707,
         "path": "./photos\\2025\\Washington, USA\\DSC03170.jpg",
         "min_path": "./photos\\2025\\Washington, USA\\DSC03170.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1707,
+        "height": 2560,
+        "path": "./photos\\2025\\Washington, USA\\DSC03143.jpg",
+        "min_path": "./photos\\2025\\Washington, USA\\DSC03143.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2560,
+        "height": 1707,
+        "path": "./photos\\2025\\Washington, USA\\DSC03132.jpg",
+        "min_path": "./photos\\2025\\Washington, USA\\DSC03132.min.jpg"
       },
       {
         "type": "photo",
@@ -222,15 +125,15 @@
         "type": "photo",
         "width": 1707,
         "height": 2560,
-        "path": "./photos\\2025\\Washington, USA\\DSC03052.jpg",
-        "min_path": "./photos\\2025\\Washington, USA\\DSC03052.min.jpg"
+        "path": "./photos\\2025\\Washington, USA\\DSC03038-Edit.jpg",
+        "min_path": "./photos\\2025\\Washington, USA\\DSC03038-Edit.min.jpg"
       },
       {
         "type": "photo",
-        "width": 1707,
-        "height": 2560,
-        "path": "./photos\\2025\\Washington, USA\\DSC03038-Edit.jpg",
-        "min_path": "./photos\\2025\\Washington, USA\\DSC03038-Edit.min.jpg"
+        "width": 2560,
+        "height": 1707,
+        "path": "./photos\\2025\\Washington, USA\\DSC02926.jpg",
+        "min_path": "./photos\\2025\\Washington, USA\\DSC02926.min.jpg"
       },
       {
         "type": "photo",
@@ -323,8 +226,8 @@
         "type": "photo",
         "width": 1707,
         "height": 2560,
-        "path": "./photos\\2024\\Arizona, USA\\DSC01357.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC01357.min.jpg"
+        "path": "./photos\\2024\\Arizona, USA\\DSC01350.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01350.min.jpg"
       },
       {
         "type": "photo",
@@ -335,17 +238,17 @@
       },
       {
         "type": "photo",
-        "width": 2560,
-        "height": 1706,
-        "path": "./photos\\2024\\Arizona, USA\\DSC01277.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC01277.min.jpg"
+        "width": 1509,
+        "height": 2263,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01284.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01284.min.jpg"
       },
       {
         "type": "photo",
         "width": 2560,
         "height": 1706,
-        "path": "./photos\\2024\\Arizona, USA\\DSC01232.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC01232.min.jpg"
+        "path": "./photos\\2024\\Arizona, USA\\DSC01277.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01277.min.jpg"
       },
       {
         "type": "photo",
@@ -363,10 +266,24 @@
       },
       {
         "type": "photo",
+        "width": 1706,
+        "height": 2560,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01189.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01189.min.jpg"
+      },
+      {
+        "type": "photo",
         "width": 2560,
-        "height": 1707,
-        "path": "./photos\\2024\\Arizona, USA\\DSC01170.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC01170.min.jpg"
+        "height": 1706,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01178.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01178.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1706,
+        "height": 2560,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01163.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01163.min.jpg"
       },
       {
         "type": "photo",
@@ -377,10 +294,17 @@
       },
       {
         "type": "photo",
-        "width": 2560,
-        "height": 1707,
-        "path": "./photos\\2024\\Arizona, USA\\DSC01131.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC01131.min.jpg"
+        "width": 1707,
+        "height": 2560,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01151.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01151.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1707,
+        "height": 2560,
+        "path": "./photos\\2024\\Arizona, USA\\DSC01127.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC01127.min.jpg"
       },
       {
         "type": "photo",
@@ -400,8 +324,147 @@
         "type": "photo",
         "width": 1707,
         "height": 2560,
-        "path": "./photos\\2024\\Arizona, USA\\DSC00989.jpg",
-        "min_path": "./photos\\2024\\Arizona, USA\\DSC00989.min.jpg"
+        "path": "./photos\\2024\\Arizona, USA\\DSC00982.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC00982.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2560,
+        "height": 1707,
+        "path": "./photos\\2024\\Arizona, USA\\DSC00980.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC00980.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1706,
+        "height": 2560,
+        "path": "./photos\\2024\\Arizona, USA\\DSC00978.jpg",
+        "min_path": "./photos\\2024\\Arizona, USA\\DSC00978.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Colorado, USA",
+    "type": "photos",
+    "parents": [
+      "2023",
+      "Colorado, USA"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1707,
+        "height": 2560,
+        "path": "./photos\\2023\\Colorado, USA\\DSC00677.jpg",
+        "min_path": "./photos\\2023\\Colorado, USA\\DSC00677.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2560,
+        "height": 1707,
+        "path": "./photos\\2023\\Colorado, USA\\DSC00658.jpg",
+        "min_path": "./photos\\2023\\Colorado, USA\\DSC00658.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1707,
+        "height": 2560,
+        "path": "./photos\\2023\\Colorado, USA\\DSC00657.jpg",
+        "min_path": "./photos\\2023\\Colorado, USA\\DSC00657.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1706,
+        "height": 2560,
+        "path": "./photos\\2023\\Colorado, USA\\DSC00612.jpg",
+        "min_path": "./photos\\2023\\Colorado, USA\\DSC00612.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2560,
+        "height": 1707,
+        "path": "./photos\\2023\\Colorado, USA\\DSC00550.jpg",
+        "min_path": "./photos\\2023\\Colorado, USA\\DSC00550.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Madison, Wisconsin, USA",
+    "type": "photos",
+    "parents": [
+      "2021",
+      "Madison, Wisconsin, USA"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 1920,
+        "height": 2560,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300401.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1920,
+        "height": 2560,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300396.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300396.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1920,
+        "height": 2560,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300374.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300374.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1920,
+        "height": 2560,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300366.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300366.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1920,
+        "height": 2560,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300363.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300363.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1920,
+        "height": 2560,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300360.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300360.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 1920,
+        "height": 2560,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300358.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300358.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2560,
+        "height": 1920,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300355.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300355.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2560,
+        "height": 1920,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300336.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300336.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2560,
+        "height": 1920,
+        "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300332.jpg",
+        "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300332.min.jpg"
       }
     ]
   }

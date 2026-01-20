@@ -2,7 +2,6 @@
   "order": [
     "P7300401.jpg",
     "P7300396.jpg",
-    "P7300389.jpg",
     "P7300374.jpg",
     "P7300366.jpg",
     "P7300363.jpg",
@@ -26,13 +25,6 @@
       "height": 2560,
       "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300396.jpg",
       "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300396.min.jpg"
-    },
-    "P7300389.jpg": {
-      "type": "photo",
-      "width": 2560,
-      "height": 1920,
-      "path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300389.jpg",
-      "min_path": "./photos\\2021\\Madison, Wisconsin, USA\\P7300389.min.jpg"
     },
     "P7300374.jpg": {
       "type": "photo",

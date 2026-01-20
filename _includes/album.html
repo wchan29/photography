@@ -1,19 +1,38 @@
 {%- for album in albums -%}
   {%- if album.type == 'photos' -%}
-      {%- assign strong_name = album.name | prepend: '<strong>' | append: '</strong>' }} -%}
-      {{ search.terms }}
-      <h2 class="head head-{{ album.root }}">{{ album.parents | reverse | join: ' · ' | replace: album.name, strong_name | upcase}}</h2>
-      <div class="photos">
-        {%- for photo in album.list -%}
-          <figure class="photo-figure" itemscope>
-            <a class="photo-a" itemprop="{{ photo.path }}" 
-              href="{{ photo.path }}"
-              msrc="{{ photo.min_path }}"
-              data-size="{{ photo.width }}x{{ photo.height }}">
-              <img class="photo-img" itemprop="thumbnail" src="{{ photo.min_path }}"/>
-            </a>
-          </figure>
-        {%- endfor -%}
+    {%- assign strong_name = album.name | prepend: '<strong>' | append: '</strong>' -%}
+    {{ search.terms }}
+
+    <section class="album-section">
+      <h2 class="head head-{{ album.root }}" id="album-{{ album.name | slugify }}">
+        <button
+          class="collapse-button"
+          type="button"
+          aria-expanded="true"
+          aria-controls="album-content-{{ album.name | slugify }}"
+        >
+          {{ album.parents | reverse | join: ' · ' | replace: album.name, strong_name | upcase }}
+          <span class="collapse-icon">▼</span>
+        </button>
+      </h2>
+
+      <div class="album-content" id="album-content-{{ album.name | slugify }}">
+        <div class="photos">
+          {%- for photo in album.list -%}
+            <figure class="photo-figure" itemscope>
+              <a
+                class="photo-a"
+                itemprop="{{ photo.path }}"
+                href="{{ photo.path }}"
+                msrc="{{ photo.min_path }}"
+                data-size="{{ photo.width }}x{{ photo.height }}"
+              >
+                <img class="photo-img" itemprop="thumbnail" src="{{ photo.min_path }}"/>
+              </a>
+            </figure>
+          {%- endfor -%}
+        </div>
       </div>
+    </section>
   {%- endif -%}
 {%- endfor -%}
